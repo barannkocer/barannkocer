@@ -45,13 +45,6 @@ Sümer Bilgi Teknolojileri Sanayi Ticaret Limited Şirketi · 05.08.2026 – 30.
 
 ## Projeler
 
-**AI vs AI: Yapay Zekâ ile Üretilen Güvenlik Duvarlarının Testi (AYBÜ BAP)**  
-Python · Docker · iptables · ModSecurity · Claude Code · Codex · Gemini
-
-- Üç yapay zekâ aracının birbirinin güvenlik duvarı kurallarını test ettiği 3×3 çapraz deney tasarımını kurgulayarak araç çıktılarını karşılaştırmalı değerlendirmeye yönelik bir yapı oluşturdum.
-- İzole Docker ortamında tekrarlı testlerle iddia edilen ve doğrulanan zafiyetleri ayrı ölçen bir değerlendirme planı oluşturdum.
-- Literatür taramasına dayanarak hipotezleri belirledim ve BAP başvuru formunu hazırladım.
-
 **Öğrenci Veri Seti Üzerinde Veri Temizleme ve Ön İşleme**  
 Python · Pandas · NumPy · Feature Engineering
 
@@ -74,7 +67,7 @@ Python · Web Development · Admin Panel
 
 - Kişisel portföy sitesi ve dinamik içerik yönetimi için veritabanı bağlantılı admin paneli geliştirdim. Canlı site: [barankocer.com.tr](https://barankocer.com.tr)
 
-**Mulakat RAG – Kaynaklı Ders Asistanı** — *yakında*  
+**[Mulakat RAG – Kaynaklı Ders Asistanı](https://github.com/barannkocer/mulakat-rag)**  
 Yerel RAG uygulaması: Ollama, Chroma, FastAPI ve C#/WPF masaüstü istemcisi; değerlendirme (eval) seti.
 
 - PDF parçalama (chunking), Ollama ile gömme (embedding) ve Chroma ile vektör arama
