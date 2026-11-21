@@ -75,6 +75,13 @@ Yerel RAG uygulaması: Ollama, Chroma, FastAPI ve C#/WPF masaüstü istemcisi; d
 - Üç prompt yaklaşımını 180 gerçek model yanıtıyla karşılaştıran bir eval
 - pytest testleri ve C#/WPF masaüstü istemcisi
 
+**[Altyazı Köprüsü – Oyunlar İçin Gerçek Zamanlı Türkçe Altyazı](https://github.com/barannkocer/altyazi-koprusu)**  
+Python · OpenCV · RapidOCR · PyQt6 · deep-translator
+
+- Ekranın altyazı bölgesini saniyede 8 kare yakalayıp OpenCV ile temizleyen ve yerel OCR ile okuyan bir pipeline kurdum.
+- Konum, kutu ve harf kurallarıyla yalnızca diyalog altyazılarını süzdüm; yarım kareleri iki okuma onayıyla eledim.
+- Çeviriyi arka planda önbellekli ve yedekli servislerle (Google, DeepL, MyMemory) yapıp Türkçeyi PyQt6 katmanıyla İngilizcenin üstüne yerleştirdim; pytest testleri.
+
 ## Eğitim
 
 - **Ankara Yıldırım Beyazıt Üniversitesi** — Ön Lisans, Büyük Veri Analistliği (Yatay Geçiş 1. Asil) · 2026 – Devam
