@@ -88,6 +88,8 @@ AYBÜ Teknik Bilimler MYO – Büyük Veri Analistliği Programı, “Büyük Ve
 - **14.10.2026** — Analiz ve Kanıta Dayalı Kamu Politikaları (T.C. Sanayi ve Teknoloji Bakanlığı Stratejik Araştırmalar ve Verimlilik Genel Müdürlüğü)
 - **30.09.2026** — Kurumsal Veri Yönetimi: Veri Ambarı Mimarisi, Veri Bütünlüğü ve Sahadan Uygulamalar (Ahmet Fırat Köse, Sentinus Holding IT Direktörü)
 
+**19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı (ISCTurkey 2026)** — Bölüm başkanı Dr. Öğr. Gör. Harun Kınacı ile birlikte · Dinleyici · 20.10.2026
+
 **Bilişim Teknolojilerinde Patent Farkındalığı** — ZBEÜ Bilişim Teknolojileri MYO · Prof. Dr. Şenay Saraç · Katılımcı · 09.12.2025
 
 ## Topluluk ve liderlik
